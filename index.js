@@ -9,5 +9,5 @@ function nestedTarget() {
 }
 
 function increaseRankBy(n) {
-  return 1;
+  return
 }
